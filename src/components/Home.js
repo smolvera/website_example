@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import axios from 'axios';
 
+//example using an axios get method!
+
 class Home extends Component {
     state = {
         posts: []
